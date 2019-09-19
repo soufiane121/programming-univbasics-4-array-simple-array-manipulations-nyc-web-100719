@@ -11,8 +11,9 @@ arr.pop
 end
 
 def pop_with_args(arr)
+  answer=[]
 2.times do
-  arr.pop
+ answer <<  arr.pop
 end
-p arr
+answer.length
 end
