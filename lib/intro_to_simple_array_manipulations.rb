@@ -10,6 +10,9 @@ def using_pop(arr)
 arr.pop
 end
 
-def pop_with_args(arr,)
-
+def pop_with_args(arr)
+2.times do
+  arr.pop
+end
+arr.length
 end
