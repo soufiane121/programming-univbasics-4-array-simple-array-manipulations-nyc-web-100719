@@ -14,5 +14,5 @@ def pop_with_args(arr)
 2.times do
   arr.pop
 end
-arr.length
+p arr
 end
