@@ -17,3 +17,7 @@ def pop_with_args(arr)
 end
 answer.reverse
 end
+
+def using_shift(arr)
+arr.shift
+end
